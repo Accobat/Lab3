@@ -1,0 +1,20 @@
+C:\Users\A.J\source\repos\Lab_3\Lab_3\bin\Debug\Lab_3.exe.config
+C:\Users\A.J\source\repos\Lab_3\Lab_3\bin\Debug\Lab_3.exe
+C:\Users\A.J\source\repos\Lab_3\Lab_3\bin\Debug\Lab_3.pdb
+C:\Users\A.J\source\repos\Lab_3\Lab_3\obj\Debug\Lab_3.csprojAssemblyReference.cache
+C:\Users\A.J\source\repos\Lab_3\Lab_3\obj\Debug\Lab_3.Form1.resources
+C:\Users\A.J\source\repos\Lab_3\Lab_3\obj\Debug\Lab_3.Properties.Resources.resources
+C:\Users\A.J\source\repos\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.GenerateResource.cache
+C:\Users\A.J\source\repos\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+C:\Users\A.J\source\repos\Lab_3\Lab_3\obj\Debug\Lab_3.exe
+C:\Users\A.J\source\repos\Lab_3\Lab_3\obj\Debug\Lab_3.pdb
+D:\старая винда\source\repos\Lab_3\Lab_3\bin\Debug\Lab_3.exe.config
+D:\старая винда\source\repos\Lab_3\Lab_3\bin\Debug\Lab_3.exe
+D:\старая винда\source\repos\Lab_3\Lab_3\bin\Debug\Lab_3.pdb
+D:\старая винда\source\repos\Lab_3\Lab_3\obj\Debug\Lab_3.csprojAssemblyReference.cache
+D:\старая винда\source\repos\Lab_3\Lab_3\obj\Debug\Lab_3.Form1.resources
+D:\старая винда\source\repos\Lab_3\Lab_3\obj\Debug\Lab_3.Properties.Resources.resources
+D:\старая винда\source\repos\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.GenerateResource.cache
+D:\старая винда\source\repos\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+D:\старая винда\source\repos\Lab_3\Lab_3\obj\Debug\Lab_3.exe
+D:\старая винда\source\repos\Lab_3\Lab_3\obj\Debug\Lab_3.pdb
